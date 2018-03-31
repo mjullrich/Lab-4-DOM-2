@@ -1,0 +1,73 @@
+body {
+    background-color: rgb(43, 62, 235);
+    margin-top: auto;
+}
+
+h3 {
+    font-size: 60px;
+    color: black;
+    text-align: center;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+p {
+    font-size: 20px;
+    color: white;
+    text-align: justify;
+    font-weight: bold;
+    text-align: center;
+}
+
+button {
+    font-size: 50px;
+    color: white;
+    width: 150px;
+    font-weight: bold;
+    text-align: center;
+    font-weight: bold;
+    background: black;
+    border: black;
+}
+
+#my_centered_buttons {
+    display: flex;
+    justify-content: center;
+    padding: 100px;
+}body {
+    background-color: rgb(43, 62, 235);
+    margin-top: auto;
+}
+
+h3 {
+    font-size: 60px;
+    color: black;
+    text-align: center;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+p {
+    font-size: 20px;
+    color: white;
+    text-align: justify;
+    font-weight: bold;
+    text-align: center;
+}
+
+button {
+    font-size: 50px;
+    color: white;
+    width: 150px;
+    font-weight: bold;
+    text-align: center;
+    font-weight: bold;
+    background: black;
+    border: black;
+}
+
+#my_centered_buttons {
+    display: flex;
+    justify-content: center;
+    padding: 100px;
+}
